@@ -413,3 +413,6 @@ jupyter
 ## Data Source
 
 Bank Customer payment behavior dataset.
+
+## License
+https://docs.superhuman.com/d/Credit-Risk-Screening-for-Existing-Customer-Top-Up-Refinancing_d0vjTJPEu--/Credit-Risk-Screening-for-Existing-Customer-Top-Up-Refinancing_suNCUiDh#_lu4Xubz9
