@@ -322,12 +322,16 @@ Evaluated on a test set of **200 applicants (90 Passed / 110 Rejected)**, with *
 - **False Positive** = an eligible customer wrongly rejected (lost interest revenue).
 - **False Negative** = a high-risk customer wrongly approved (potential NPL exposure).
 
-![Classification reports](images/logreg_classification_report.png)
-![Confusion matrices](images/confusion_matrix.png)
+<img width="582" height="231" alt="Screenshot 2026-09-26 093617" src="https://github.com/user-attachments/assets/514e26ca-8e6d-4abb-80ec-eba014a71975" />
+<img width="577" height="247" alt="Screenshot 2026-09-26 093624" src="https://github.com/user-attachments/assets/1078a952-00ae-4b8b-8471-d7dd6287c5f2" />
+
+<img width="1302" height="532" alt="55" src="https://github.com/user-attachments/assets/9b6b7f8d-267b-4fa5-a404-65fdcd3be792" />
+
 
 ### Key risk drivers
 
-![Feature importance and coefficients](images/feature_importance.png)
+<img width="1522" height="642" alt="44" src="https://github.com/user-attachments/assets/a56dd437-325b-490b-b243-acb94a4263ee" />
+
 
 - **XGBoost:** `residual_income` is by far the most important feature (> 80% gain), followed by `dti` and `credit_inquiries_12m`.
 - **Logistic Regression:** `dti` and `emi` push applicants toward rejection (positive coefficients); `residual_income` and `monthly_income` push toward eligibility (negative coefficients, ≈ −3.0 for residual income).
