@@ -394,7 +394,7 @@ jupyter
 1. Load the raw data into MySQL (`info.raw_data_1`).
 2. Execute the scripts in `sql/` in order (backup → cleansing → screening → aggregations).
 3. Export the screening query output to `data/Result.csv`.
-4. Open `notebooks/classification_model.ipynb` and run all cells.
+4. Open `screening_classification_model.ipynb` and run all cells.
 
 ---
 
