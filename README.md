@@ -1,6 +1,3 @@
-the 3,657 employed applicants rejected mainly for DTI > 50%, offer a loan that absorbs external high-cost debt, lowers total monthly payments and moves them into the eligible range.
-- **Loan term adjustments:** for applicants who fail only on the < 8,000 THB residual income rule, offer automated tenor extension # Credit Risk Screening for Existing Customer Top-Up / Refinancing
-
 A risk-based applicant screening engine that answers one question:
 
 > **If all existing customers in our database applied for additional credit at the same time, how could the institution screen and filter them effectively?**
