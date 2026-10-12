@@ -349,7 +349,7 @@ Evaluated on a test set of **200 applicants (90 Passed / 110 Rejected)**, with *
 
 **2. Product & policy innovation**
 
-- **Debt consolidation program:** for (e.g. 36 → 60 months) to reduce the monthly installment.
+- **Debt consolidation program: extending the term (e.g., 36 to 60 months) lowers monthly payments, improving cash flow, but increases total interest paid over time.
 - **Credit line reduction / collateral:** for segments constrained by low disposable cash flow, consider an approved credit line reduction or collateral requirements to retain viable business instead of rejecting outright.
 
 ---
